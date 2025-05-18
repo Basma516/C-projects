@@ -1,0 +1,7 @@
+C:\Users\MG\source\repos\Student Grades Manager App\Student Grades Manager App\bin\Debug\Student Grades Manager App.exe.config
+C:\Users\MG\source\repos\Student Grades Manager App\Student Grades Manager App\bin\Debug\Student Grades Manager App.exe
+C:\Users\MG\source\repos\Student Grades Manager App\Student Grades Manager App\bin\Debug\Student Grades Manager App.pdb
+C:\Users\MG\source\repos\Student Grades Manager App\Student Grades Manager App\obj\Debug\Student Grades Manager App.csproj.AssemblyReference.cache
+C:\Users\MG\source\repos\Student Grades Manager App\Student Grades Manager App\obj\Debug\Student Grades Manager App.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\repos\Student Grades Manager App\Student Grades Manager App\obj\Debug\Student Grades Manager App.exe
+C:\Users\MG\source\repos\Student Grades Manager App\Student Grades Manager App\obj\Debug\Student Grades Manager App.pdb

@@ -1,0 +1,7 @@
+C:\Users\MG\source\repos\Classes Tranning\Classes Tranning\bin\Debug\Classes Tranning.exe.config
+C:\Users\MG\source\repos\Classes Tranning\Classes Tranning\bin\Debug\Classes Tranning.exe
+C:\Users\MG\source\repos\Classes Tranning\Classes Tranning\bin\Debug\Classes Tranning.pdb
+C:\Users\MG\source\repos\Classes Tranning\Classes Tranning\obj\Debug\Classes Tranning.csproj.AssemblyReference.cache
+C:\Users\MG\source\repos\Classes Tranning\Classes Tranning\obj\Debug\Classes Tranning.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\repos\Classes Tranning\Classes Tranning\obj\Debug\Classes Tranning.exe
+C:\Users\MG\source\repos\Classes Tranning\Classes Tranning\obj\Debug\Classes Tranning.pdb

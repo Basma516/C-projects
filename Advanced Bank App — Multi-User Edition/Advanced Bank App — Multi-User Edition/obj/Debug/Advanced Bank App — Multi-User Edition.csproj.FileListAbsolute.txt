@@ -1,0 +1,7 @@
+C:\Users\MG\source\repos\Advanced Bank App — Multi-User Edition\Advanced Bank App — Multi-User Edition\bin\Debug\Advanced Bank App — Multi-User Edition.exe.config
+C:\Users\MG\source\repos\Advanced Bank App — Multi-User Edition\Advanced Bank App — Multi-User Edition\bin\Debug\Advanced Bank App — Multi-User Edition.exe
+C:\Users\MG\source\repos\Advanced Bank App — Multi-User Edition\Advanced Bank App — Multi-User Edition\bin\Debug\Advanced Bank App — Multi-User Edition.pdb
+C:\Users\MG\source\repos\Advanced Bank App — Multi-User Edition\Advanced Bank App — Multi-User Edition\obj\Debug\Advanced Bank App — Multi-User Edition.csproj.AssemblyReference.cache
+C:\Users\MG\source\repos\Advanced Bank App — Multi-User Edition\Advanced Bank App — Multi-User Edition\obj\Debug\Advanced Bank App — Multi-User Edition.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\repos\Advanced Bank App — Multi-User Edition\Advanced Bank App — Multi-User Edition\obj\Debug\Advanced Bank App — Multi-User Edition.exe
+C:\Users\MG\source\repos\Advanced Bank App — Multi-User Edition\Advanced Bank App — Multi-User Edition\obj\Debug\Advanced Bank App — Multi-User Edition.pdb

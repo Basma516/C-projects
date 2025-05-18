@@ -1,0 +1,7 @@
+C:\Users\MG\source\repos\Simple Bank App\Simple Bank App\bin\Debug\Simple Bank App.exe.config
+C:\Users\MG\source\repos\Simple Bank App\Simple Bank App\bin\Debug\Simple Bank App.exe
+C:\Users\MG\source\repos\Simple Bank App\Simple Bank App\bin\Debug\Simple Bank App.pdb
+C:\Users\MG\source\repos\Simple Bank App\Simple Bank App\obj\Debug\Simple Bank App.csproj.AssemblyReference.cache
+C:\Users\MG\source\repos\Simple Bank App\Simple Bank App\obj\Debug\Simple Bank App.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\repos\Simple Bank App\Simple Bank App\obj\Debug\Simple Bank App.exe
+C:\Users\MG\source\repos\Simple Bank App\Simple Bank App\obj\Debug\Simple Bank App.pdb

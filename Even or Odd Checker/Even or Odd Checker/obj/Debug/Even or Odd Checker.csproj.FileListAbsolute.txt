@@ -1,0 +1,7 @@
+C:\Users\MG\source\repos\Even or Odd Checker\Even or Odd Checker\bin\Debug\Even or Odd Checker.exe.config
+C:\Users\MG\source\repos\Even or Odd Checker\Even or Odd Checker\bin\Debug\Even or Odd Checker.exe
+C:\Users\MG\source\repos\Even or Odd Checker\Even or Odd Checker\bin\Debug\Even or Odd Checker.pdb
+C:\Users\MG\source\repos\Even or Odd Checker\Even or Odd Checker\obj\Debug\Even or Odd Checker.csproj.AssemblyReference.cache
+C:\Users\MG\source\repos\Even or Odd Checker\Even or Odd Checker\obj\Debug\Even or Odd Checker.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\repos\Even or Odd Checker\Even or Odd Checker\obj\Debug\Even or Odd Checker.exe
+C:\Users\MG\source\repos\Even or Odd Checker\Even or Odd Checker\obj\Debug\Even or Odd Checker.pdb

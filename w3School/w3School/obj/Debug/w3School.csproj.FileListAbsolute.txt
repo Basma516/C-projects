@@ -1,0 +1,7 @@
+C:\Users\MG\source\repos\w3School\w3School\obj\Debug\w3School.csproj.AssemblyReference.cache
+C:\Users\MG\source\repos\w3School\w3School\obj\Debug\w3School.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\repos\w3School\w3School\bin\Debug\w3School.exe.config
+C:\Users\MG\source\repos\w3School\w3School\bin\Debug\w3School.exe
+C:\Users\MG\source\repos\w3School\w3School\bin\Debug\w3School.pdb
+C:\Users\MG\source\repos\w3School\w3School\obj\Debug\w3School.exe
+C:\Users\MG\source\repos\w3School\w3School\obj\Debug\w3School.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MG\\source\\repos\\Advanced Bank App \u2014 Multi-User Edition\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B8F26D0-6FB1-41F4-8622-B768E695A44C}|Advanced Bank App \u2014 Multi-User Edition\\Advanced Bank App \u2014 Multi-User Edition.csproj|c:\\users\\mg\\source\\repos\\advanced bank app \u2014 multi-user edition\\advanced bank app \u2014 multi-user edition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8F26D0-6FB1-41F4-8622-B768E695A44C}|Advanced Bank App \u2014 Multi-User Edition\\Advanced Bank App \u2014 Multi-User Edition.csproj|solutionrelative:advanced bank app \u2014 multi-user edition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MG\\source\\repos\\Advanced Bank App \u2014 Multi-User Edition\\Advanced Bank App \u2014 Multi-User Edition\\Program.cs",
+              "RelativeDocumentMoniker": "Advanced Bank App \u2014 Multi-User Edition\\Program.cs",
+              "ToolTip": "C:\\Users\\MG\\source\\repos\\Advanced Bank App \u2014 Multi-User Edition\\Advanced Bank App \u2014 Multi-User Edition\\Program.cs",
+              "RelativeToolTip": "Advanced Bank App \u2014 Multi-User Edition\\Program.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAcwKQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T18:39:12.135Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

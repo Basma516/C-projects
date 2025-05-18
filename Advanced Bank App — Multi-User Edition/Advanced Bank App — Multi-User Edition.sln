@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced Bank App — Multi-User Edition", "Advanced Bank App — Multi-User Edition\Advanced Bank App — Multi-User Edition.csproj", "{5B8F26D0-6FB1-41F4-8622-B768E695A44C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B8F26D0-6FB1-41F4-8622-B768E695A44C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8F26D0-6FB1-41F4-8622-B768E695A44C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B8F26D0-6FB1-41F4-8622-B768E695A44C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B8F26D0-6FB1-41F4-8622-B768E695A44C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47DBDCF1-0E9E-4823-BE50-338F39449CCC}
+	EndGlobalSection
+EndGlobal

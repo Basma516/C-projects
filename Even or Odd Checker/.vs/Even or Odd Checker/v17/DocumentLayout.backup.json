@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MG\\source\\repos\\Even or Odd Checker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A62BCE39-1C59-44D5-9366-733430F50A8A}|Even or Odd Checker\\Even or Odd Checker.csproj|c:\\users\\mg\\source\\repos\\even or odd checker\\even or odd checker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A62BCE39-1C59-44D5-9366-733430F50A8A}|Even or Odd Checker\\Even or Odd Checker.csproj|solutionrelative:even or odd checker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MG\\source\\repos\\Even or Odd Checker\\Even or Odd Checker\\Program.cs",
+              "RelativeDocumentMoniker": "Even or Odd Checker\\Program.cs",
+              "ToolTip": "C:\\Users\\MG\\source\\repos\\Even or Odd Checker\\Even or Odd Checker\\Program.cs",
+              "RelativeToolTip": "Even or Odd Checker\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAiwBkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:11:43.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
