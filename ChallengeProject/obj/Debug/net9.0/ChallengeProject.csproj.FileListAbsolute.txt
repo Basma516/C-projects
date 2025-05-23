@@ -1,0 +1,15 @@
+C:\Users\MG\source\repos\ChallengeProject\bin\Debug\net9.0\ChallengeProject.exe
+C:\Users\MG\source\repos\ChallengeProject\bin\Debug\net9.0\ChallengeProject.deps.json
+C:\Users\MG\source\repos\ChallengeProject\bin\Debug\net9.0\ChallengeProject.runtimeconfig.json
+C:\Users\MG\source\repos\ChallengeProject\bin\Debug\net9.0\ChallengeProject.dll
+C:\Users\MG\source\repos\ChallengeProject\bin\Debug\net9.0\ChallengeProject.pdb
+C:\Users\MG\source\repos\ChallengeProject\obj\Debug\net9.0\ChallengeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MG\source\repos\ChallengeProject\obj\Debug\net9.0\ChallengeProject.AssemblyInfoInputs.cache
+C:\Users\MG\source\repos\ChallengeProject\obj\Debug\net9.0\ChallengeProject.AssemblyInfo.cs
+C:\Users\MG\source\repos\ChallengeProject\obj\Debug\net9.0\ChallengeProject.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\repos\ChallengeProject\obj\Debug\net9.0\ChallengeProject.sourcelink.json
+C:\Users\MG\source\repos\ChallengeProject\obj\Debug\net9.0\ChallengeProject.dll
+C:\Users\MG\source\repos\ChallengeProject\obj\Debug\net9.0\refint\ChallengeProject.dll
+C:\Users\MG\source\repos\ChallengeProject\obj\Debug\net9.0\ChallengeProject.pdb
+C:\Users\MG\source\repos\ChallengeProject\obj\Debug\net9.0\ChallengeProject.genruntimeconfig.cache
+C:\Users\MG\source\repos\ChallengeProject\obj\Debug\net9.0\ref\ChallengeProject.dll

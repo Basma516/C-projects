@@ -16,3 +16,4 @@ c:\Users\MG\source\repos\helloworld\obj\Debug\net9.0\refint\repos.dll
 c:\Users\MG\source\repos\helloworld\obj\Debug\net9.0\repos.pdb
 c:\Users\MG\source\repos\helloworld\obj\Debug\net9.0\repos.genruntimeconfig.cache
 c:\Users\MG\source\repos\helloworld\obj\Debug\net9.0\ref\repos.dll
+c:\Users\MG\source\repos\helloworld\obj\Debug\net9.0\repos.sourcelink.json
