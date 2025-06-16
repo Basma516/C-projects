@@ -1,0 +1,15 @@
+C:\Users\MG\source\repos\training center\bin\Debug\net8.0\training center.exe
+C:\Users\MG\source\repos\training center\bin\Debug\net8.0\training center.deps.json
+C:\Users\MG\source\repos\training center\bin\Debug\net8.0\training center.runtimeconfig.json
+C:\Users\MG\source\repos\training center\bin\Debug\net8.0\training center.dll
+C:\Users\MG\source\repos\training center\bin\Debug\net8.0\training center.pdb
+C:\Users\MG\source\repos\training center\obj\Debug\net8.0\training center.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MG\source\repos\training center\obj\Debug\net8.0\training center.AssemblyInfoInputs.cache
+C:\Users\MG\source\repos\training center\obj\Debug\net8.0\training center.AssemblyInfo.cs
+C:\Users\MG\source\repos\training center\obj\Debug\net8.0\training center.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\repos\training center\obj\Debug\net8.0\training center.sourcelink.json
+C:\Users\MG\source\repos\training center\obj\Debug\net8.0\training center.dll
+C:\Users\MG\source\repos\training center\obj\Debug\net8.0\refint\training center.dll
+C:\Users\MG\source\repos\training center\obj\Debug\net8.0\training center.pdb
+C:\Users\MG\source\repos\training center\obj\Debug\net8.0\training center.genruntimeconfig.cache
+C:\Users\MG\source\repos\training center\obj\Debug\net8.0\ref\training center.dll

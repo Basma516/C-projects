@@ -1,0 +1,15 @@
+C:\Users\MG\source\repos\Student registration\bin\Debug\net8.0\Student registration.exe
+C:\Users\MG\source\repos\Student registration\bin\Debug\net8.0\Student registration.deps.json
+C:\Users\MG\source\repos\Student registration\bin\Debug\net8.0\Student registration.runtimeconfig.json
+C:\Users\MG\source\repos\Student registration\bin\Debug\net8.0\Student registration.dll
+C:\Users\MG\source\repos\Student registration\bin\Debug\net8.0\Student registration.pdb
+C:\Users\MG\source\repos\Student registration\obj\Debug\net8.0\Student registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MG\source\repos\Student registration\obj\Debug\net8.0\Student registration.AssemblyInfoInputs.cache
+C:\Users\MG\source\repos\Student registration\obj\Debug\net8.0\Student registration.AssemblyInfo.cs
+C:\Users\MG\source\repos\Student registration\obj\Debug\net8.0\Student registration.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\repos\Student registration\obj\Debug\net8.0\Student registration.sourcelink.json
+C:\Users\MG\source\repos\Student registration\obj\Debug\net8.0\Student registration.dll
+C:\Users\MG\source\repos\Student registration\obj\Debug\net8.0\refint\Student registration.dll
+C:\Users\MG\source\repos\Student registration\obj\Debug\net8.0\Student registration.pdb
+C:\Users\MG\source\repos\Student registration\obj\Debug\net8.0\Student registration.genruntimeconfig.cache
+C:\Users\MG\source\repos\Student registration\obj\Debug\net8.0\ref\Student registration.dll

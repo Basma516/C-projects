@@ -1,0 +1,15 @@
+C:\Users\MG\source\repos\Persons&Pets\bin\Debug\net8.0\Persons&Pets.exe
+C:\Users\MG\source\repos\Persons&Pets\bin\Debug\net8.0\Persons&Pets.deps.json
+C:\Users\MG\source\repos\Persons&Pets\bin\Debug\net8.0\Persons&Pets.runtimeconfig.json
+C:\Users\MG\source\repos\Persons&Pets\bin\Debug\net8.0\Persons&Pets.dll
+C:\Users\MG\source\repos\Persons&Pets\bin\Debug\net8.0\Persons&Pets.pdb
+C:\Users\MG\source\repos\Persons&Pets\obj\Debug\net8.0\Persons&Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MG\source\repos\Persons&Pets\obj\Debug\net8.0\Persons&Pets.AssemblyInfoInputs.cache
+C:\Users\MG\source\repos\Persons&Pets\obj\Debug\net8.0\Persons&Pets.AssemblyInfo.cs
+C:\Users\MG\source\repos\Persons&Pets\obj\Debug\net8.0\Persons&Pets.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\repos\Persons&Pets\obj\Debug\net8.0\Persons&Pets.sourcelink.json
+C:\Users\MG\source\repos\Persons&Pets\obj\Debug\net8.0\Persons&Pets.dll
+C:\Users\MG\source\repos\Persons&Pets\obj\Debug\net8.0\refint\Persons&Pets.dll
+C:\Users\MG\source\repos\Persons&Pets\obj\Debug\net8.0\Persons&Pets.pdb
+C:\Users\MG\source\repos\Persons&Pets\obj\Debug\net8.0\Persons&Pets.genruntimeconfig.cache
+C:\Users\MG\source\repos\Persons&Pets\obj\Debug\net8.0\ref\Persons&Pets.dll

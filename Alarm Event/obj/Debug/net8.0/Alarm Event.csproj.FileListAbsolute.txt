@@ -1,0 +1,15 @@
+C:\Users\MG\source\repos\Alarm Event\bin\Debug\net8.0\Alarm Event.exe
+C:\Users\MG\source\repos\Alarm Event\bin\Debug\net8.0\Alarm Event.deps.json
+C:\Users\MG\source\repos\Alarm Event\bin\Debug\net8.0\Alarm Event.runtimeconfig.json
+C:\Users\MG\source\repos\Alarm Event\bin\Debug\net8.0\Alarm Event.dll
+C:\Users\MG\source\repos\Alarm Event\bin\Debug\net8.0\Alarm Event.pdb
+C:\Users\MG\source\repos\Alarm Event\obj\Debug\net8.0\Alarm Event.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MG\source\repos\Alarm Event\obj\Debug\net8.0\Alarm Event.AssemblyInfoInputs.cache
+C:\Users\MG\source\repos\Alarm Event\obj\Debug\net8.0\Alarm Event.AssemblyInfo.cs
+C:\Users\MG\source\repos\Alarm Event\obj\Debug\net8.0\Alarm Event.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\repos\Alarm Event\obj\Debug\net8.0\Alarm Event.sourcelink.json
+C:\Users\MG\source\repos\Alarm Event\obj\Debug\net8.0\Alarm Event.dll
+C:\Users\MG\source\repos\Alarm Event\obj\Debug\net8.0\refint\Alarm Event.dll
+C:\Users\MG\source\repos\Alarm Event\obj\Debug\net8.0\Alarm Event.pdb
+C:\Users\MG\source\repos\Alarm Event\obj\Debug\net8.0\Alarm Event.genruntimeconfig.cache
+C:\Users\MG\source\repos\Alarm Event\obj\Debug\net8.0\ref\Alarm Event.dll

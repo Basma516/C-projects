@@ -1,0 +1,15 @@
+C:\Users\MG\source\repos\Immutable Data Types\bin\Debug\net8.0\Immutable Data Types.exe
+C:\Users\MG\source\repos\Immutable Data Types\bin\Debug\net8.0\Immutable Data Types.deps.json
+C:\Users\MG\source\repos\Immutable Data Types\bin\Debug\net8.0\Immutable Data Types.runtimeconfig.json
+C:\Users\MG\source\repos\Immutable Data Types\bin\Debug\net8.0\Immutable Data Types.dll
+C:\Users\MG\source\repos\Immutable Data Types\bin\Debug\net8.0\Immutable Data Types.pdb
+C:\Users\MG\source\repos\Immutable Data Types\obj\Debug\net8.0\Immutable Data Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MG\source\repos\Immutable Data Types\obj\Debug\net8.0\Immutable Data Types.AssemblyInfoInputs.cache
+C:\Users\MG\source\repos\Immutable Data Types\obj\Debug\net8.0\Immutable Data Types.AssemblyInfo.cs
+C:\Users\MG\source\repos\Immutable Data Types\obj\Debug\net8.0\Immutable Data Types.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\repos\Immutable Data Types\obj\Debug\net8.0\Immutable Data Types.sourcelink.json
+C:\Users\MG\source\repos\Immutable Data Types\obj\Debug\net8.0\Immutable Data Types.dll
+C:\Users\MG\source\repos\Immutable Data Types\obj\Debug\net8.0\refint\Immutable Data Types.dll
+C:\Users\MG\source\repos\Immutable Data Types\obj\Debug\net8.0\Immutable Data Types.pdb
+C:\Users\MG\source\repos\Immutable Data Types\obj\Debug\net8.0\Immutable Data Types.genruntimeconfig.cache
+C:\Users\MG\source\repos\Immutable Data Types\obj\Debug\net8.0\ref\Immutable Data Types.dll

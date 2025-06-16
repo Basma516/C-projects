@@ -1,0 +1,15 @@
+C:\Users\MG\source\repos\revision\obj\Debug\net9.0\revision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MG\source\repos\revision\obj\Debug\net9.0\revision.AssemblyInfoInputs.cache
+C:\Users\MG\source\repos\revision\obj\Debug\net9.0\revision.AssemblyInfo.cs
+C:\Users\MG\source\repos\revision\obj\Debug\net9.0\revision.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\repos\revision\obj\Debug\net9.0\revision.sourcelink.json
+C:\Users\MG\source\repos\revision\bin\Debug\net9.0\revision.exe
+C:\Users\MG\source\repos\revision\bin\Debug\net9.0\revision.deps.json
+C:\Users\MG\source\repos\revision\bin\Debug\net9.0\revision.runtimeconfig.json
+C:\Users\MG\source\repos\revision\bin\Debug\net9.0\revision.dll
+C:\Users\MG\source\repos\revision\bin\Debug\net9.0\revision.pdb
+C:\Users\MG\source\repos\revision\obj\Debug\net9.0\revision.dll
+C:\Users\MG\source\repos\revision\obj\Debug\net9.0\refint\revision.dll
+C:\Users\MG\source\repos\revision\obj\Debug\net9.0\revision.pdb
+C:\Users\MG\source\repos\revision\obj\Debug\net9.0\revision.genruntimeconfig.cache
+C:\Users\MG\source\repos\revision\obj\Debug\net9.0\ref\revision.dll
