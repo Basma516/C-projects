@@ -1,0 +1,15 @@
+C:\Users\MG\source\repos\Simple ُEmployee Management System\bin\Debug\net8.0\Simple ُEmployee Management System.exe
+C:\Users\MG\source\repos\Simple ُEmployee Management System\bin\Debug\net8.0\Simple ُEmployee Management System.deps.json
+C:\Users\MG\source\repos\Simple ُEmployee Management System\bin\Debug\net8.0\Simple ُEmployee Management System.runtimeconfig.json
+C:\Users\MG\source\repos\Simple ُEmployee Management System\bin\Debug\net8.0\Simple ُEmployee Management System.dll
+C:\Users\MG\source\repos\Simple ُEmployee Management System\bin\Debug\net8.0\Simple ُEmployee Management System.pdb
+C:\Users\MG\source\repos\Simple ُEmployee Management System\obj\Debug\net8.0\Simple ُEmployee Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MG\source\repos\Simple ُEmployee Management System\obj\Debug\net8.0\Simple ُEmployee Management System.AssemblyInfoInputs.cache
+C:\Users\MG\source\repos\Simple ُEmployee Management System\obj\Debug\net8.0\Simple ُEmployee Management System.AssemblyInfo.cs
+C:\Users\MG\source\repos\Simple ُEmployee Management System\obj\Debug\net8.0\Simple ُEmployee Management System.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\repos\Simple ُEmployee Management System\obj\Debug\net8.0\Simple ُEmployee Management System.sourcelink.json
+C:\Users\MG\source\repos\Simple ُEmployee Management System\obj\Debug\net8.0\Simple ُEmployee Management System.dll
+C:\Users\MG\source\repos\Simple ُEmployee Management System\obj\Debug\net8.0\refint\Simple ُEmployee Management System.dll
+C:\Users\MG\source\repos\Simple ُEmployee Management System\obj\Debug\net8.0\Simple ُEmployee Management System.pdb
+C:\Users\MG\source\repos\Simple ُEmployee Management System\obj\Debug\net8.0\Simple ُEmployee Management System.genruntimeconfig.cache
+C:\Users\MG\source\repos\Simple ُEmployee Management System\obj\Debug\net8.0\ref\Simple ُEmployee Management System.dll

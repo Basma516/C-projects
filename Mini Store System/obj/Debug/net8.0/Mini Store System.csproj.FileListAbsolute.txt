@@ -1,0 +1,15 @@
+C:\Users\MG\source\repos\Mini Store System\bin\Debug\net8.0\Mini Store System.exe
+C:\Users\MG\source\repos\Mini Store System\bin\Debug\net8.0\Mini Store System.deps.json
+C:\Users\MG\source\repos\Mini Store System\bin\Debug\net8.0\Mini Store System.runtimeconfig.json
+C:\Users\MG\source\repos\Mini Store System\bin\Debug\net8.0\Mini Store System.dll
+C:\Users\MG\source\repos\Mini Store System\bin\Debug\net8.0\Mini Store System.pdb
+C:\Users\MG\source\repos\Mini Store System\obj\Debug\net8.0\Mini Store System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MG\source\repos\Mini Store System\obj\Debug\net8.0\Mini Store System.AssemblyInfoInputs.cache
+C:\Users\MG\source\repos\Mini Store System\obj\Debug\net8.0\Mini Store System.AssemblyInfo.cs
+C:\Users\MG\source\repos\Mini Store System\obj\Debug\net8.0\Mini Store System.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\repos\Mini Store System\obj\Debug\net8.0\Mini Store System.sourcelink.json
+C:\Users\MG\source\repos\Mini Store System\obj\Debug\net8.0\Mini Store System.dll
+C:\Users\MG\source\repos\Mini Store System\obj\Debug\net8.0\refint\Mini Store System.dll
+C:\Users\MG\source\repos\Mini Store System\obj\Debug\net8.0\Mini Store System.pdb
+C:\Users\MG\source\repos\Mini Store System\obj\Debug\net8.0\Mini Store System.genruntimeconfig.cache
+C:\Users\MG\source\repos\Mini Store System\obj\Debug\net8.0\ref\Mini Store System.dll

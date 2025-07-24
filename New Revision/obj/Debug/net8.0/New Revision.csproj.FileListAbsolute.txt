@@ -1,0 +1,15 @@
+C:\Users\MG\source\repos\New Revision\bin\Debug\net8.0\New Revision.exe
+C:\Users\MG\source\repos\New Revision\bin\Debug\net8.0\New Revision.deps.json
+C:\Users\MG\source\repos\New Revision\bin\Debug\net8.0\New Revision.runtimeconfig.json
+C:\Users\MG\source\repos\New Revision\bin\Debug\net8.0\New Revision.dll
+C:\Users\MG\source\repos\New Revision\bin\Debug\net8.0\New Revision.pdb
+C:\Users\MG\source\repos\New Revision\obj\Debug\net8.0\New Revision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MG\source\repos\New Revision\obj\Debug\net8.0\New Revision.AssemblyInfoInputs.cache
+C:\Users\MG\source\repos\New Revision\obj\Debug\net8.0\New Revision.AssemblyInfo.cs
+C:\Users\MG\source\repos\New Revision\obj\Debug\net8.0\New Revision.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\repos\New Revision\obj\Debug\net8.0\New Revision.sourcelink.json
+C:\Users\MG\source\repos\New Revision\obj\Debug\net8.0\New Revision.dll
+C:\Users\MG\source\repos\New Revision\obj\Debug\net8.0\refint\New Revision.dll
+C:\Users\MG\source\repos\New Revision\obj\Debug\net8.0\New Revision.pdb
+C:\Users\MG\source\repos\New Revision\obj\Debug\net8.0\New Revision.genruntimeconfig.cache
+C:\Users\MG\source\repos\New Revision\obj\Debug\net8.0\ref\New Revision.dll

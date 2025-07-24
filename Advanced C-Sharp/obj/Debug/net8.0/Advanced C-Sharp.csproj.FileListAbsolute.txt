@@ -1,0 +1,15 @@
+C:\Users\MG\source\repos\Advanced C-Sharp\bin\Debug\net8.0\Advanced C-Sharp.exe
+C:\Users\MG\source\repos\Advanced C-Sharp\bin\Debug\net8.0\Advanced C-Sharp.deps.json
+C:\Users\MG\source\repos\Advanced C-Sharp\bin\Debug\net8.0\Advanced C-Sharp.runtimeconfig.json
+C:\Users\MG\source\repos\Advanced C-Sharp\bin\Debug\net8.0\Advanced C-Sharp.dll
+C:\Users\MG\source\repos\Advanced C-Sharp\bin\Debug\net8.0\Advanced C-Sharp.pdb
+C:\Users\MG\source\repos\Advanced C-Sharp\obj\Debug\net8.0\Advanced C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MG\source\repos\Advanced C-Sharp\obj\Debug\net8.0\Advanced C-Sharp.AssemblyInfoInputs.cache
+C:\Users\MG\source\repos\Advanced C-Sharp\obj\Debug\net8.0\Advanced C-Sharp.AssemblyInfo.cs
+C:\Users\MG\source\repos\Advanced C-Sharp\obj\Debug\net8.0\Advanced C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\repos\Advanced C-Sharp\obj\Debug\net8.0\Advanced C-Sharp.sourcelink.json
+C:\Users\MG\source\repos\Advanced C-Sharp\obj\Debug\net8.0\Advanced C-Sharp.dll
+C:\Users\MG\source\repos\Advanced C-Sharp\obj\Debug\net8.0\refint\Advanced C-Sharp.dll
+C:\Users\MG\source\repos\Advanced C-Sharp\obj\Debug\net8.0\Advanced C-Sharp.pdb
+C:\Users\MG\source\repos\Advanced C-Sharp\obj\Debug\net8.0\Advanced C-Sharp.genruntimeconfig.cache
+C:\Users\MG\source\repos\Advanced C-Sharp\obj\Debug\net8.0\ref\Advanced C-Sharp.dll

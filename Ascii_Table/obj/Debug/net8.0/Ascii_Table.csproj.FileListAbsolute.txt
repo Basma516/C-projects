@@ -1,0 +1,15 @@
+C:\Users\MG\source\repos\Ascii_Table\obj\Debug\net8.0\Ascii_Table.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MG\source\repos\Ascii_Table\obj\Debug\net8.0\Ascii_Table.AssemblyInfoInputs.cache
+C:\Users\MG\source\repos\Ascii_Table\obj\Debug\net8.0\Ascii_Table.AssemblyInfo.cs
+C:\Users\MG\source\repos\Ascii_Table\obj\Debug\net8.0\Ascii_Table.csproj.CoreCompileInputs.cache
+C:\Users\MG\source\repos\Ascii_Table\obj\Debug\net8.0\Ascii_Table.sourcelink.json
+C:\Users\MG\source\repos\Ascii_Table\bin\Debug\net8.0\Ascii_Table.exe
+C:\Users\MG\source\repos\Ascii_Table\bin\Debug\net8.0\Ascii_Table.deps.json
+C:\Users\MG\source\repos\Ascii_Table\bin\Debug\net8.0\Ascii_Table.runtimeconfig.json
+C:\Users\MG\source\repos\Ascii_Table\bin\Debug\net8.0\Ascii_Table.dll
+C:\Users\MG\source\repos\Ascii_Table\bin\Debug\net8.0\Ascii_Table.pdb
+C:\Users\MG\source\repos\Ascii_Table\obj\Debug\net8.0\Ascii_Table.dll
+C:\Users\MG\source\repos\Ascii_Table\obj\Debug\net8.0\refint\Ascii_Table.dll
+C:\Users\MG\source\repos\Ascii_Table\obj\Debug\net8.0\Ascii_Table.pdb
+C:\Users\MG\source\repos\Ascii_Table\obj\Debug\net8.0\Ascii_Table.genruntimeconfig.cache
+C:\Users\MG\source\repos\Ascii_Table\obj\Debug\net8.0\ref\Ascii_Table.dll
